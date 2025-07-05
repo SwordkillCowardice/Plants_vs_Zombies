@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Plants_vs_Zombies", "Plants_vs_Zombies.vcxproj", "{C05B432D-D93B-4119-9727-9ADFB7CCCBCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C05B432D-D93B-4119-9727-9ADFB7CCCBCD}.Debug|x64.ActiveCfg = Debug|x64
+		{C05B432D-D93B-4119-9727-9ADFB7CCCBCD}.Debug|x64.Build.0 = Debug|x64
+		{C05B432D-D93B-4119-9727-9ADFB7CCCBCD}.Debug|x86.ActiveCfg = Debug|Win32
+		{C05B432D-D93B-4119-9727-9ADFB7CCCBCD}.Debug|x86.Build.0 = Debug|Win32
+		{C05B432D-D93B-4119-9727-9ADFB7CCCBCD}.Release|x64.ActiveCfg = Release|x64
+		{C05B432D-D93B-4119-9727-9ADFB7CCCBCD}.Release|x64.Build.0 = Release|x64
+		{C05B432D-D93B-4119-9727-9ADFB7CCCBCD}.Release|x86.ActiveCfg = Release|Win32
+		{C05B432D-D93B-4119-9727-9ADFB7CCCBCD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B276D33F-72F5-45E7-BB65-9267F86FB651}
+	EndGlobalSection
+EndGlobal
